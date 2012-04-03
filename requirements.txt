@@ -1,0 +1,5 @@
+nltk
+filecache
+numpy
+scipy
+scikits.learn
